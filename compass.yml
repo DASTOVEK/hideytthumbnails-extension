@@ -1,0 +1,13 @@
+name: hideytthumbnails-extension
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/1ef6d4e3-ca4f-4b39-85a2-e150a56c1915
+description: 🚫 Hide YouTube thumbnails for less clickbaity browsing
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
